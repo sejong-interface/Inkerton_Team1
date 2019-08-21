@@ -1,7 +1,7 @@
 # 동방짱
 ##### 2019 인터페이스 자체 해커톤 "인커톤" 프로젝트
-* 동아리방에 현재 몇 명이 있는지 알려줍니다.
-* 인터페이스 동아리방은 학생회관 518호 입니다.
+* 딥러닝을 이용하여 동아리방에 사람이 몇 명 있는지 탐지할 수 있는 인공지능을 개발하였다.
+* 인터페이스 동아리방은 학생회관 518호이다.
 
 
 
@@ -19,7 +19,6 @@
 
 
 ## 설치 방법
-***
 * Windows or Linux
 * **CMake >= 3.8** for modern CUDA support: https://cmake.org/download/
 * **CUDA 10.0**: https://developer.nvidia.com/cuda-toolkit-archive (on Linux do [Post-installation Actions](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#post-installation-actions))
@@ -34,7 +33,6 @@ Compiling on **Linux** by using command `make` (or alternative way by using comm
 
 
 ## 참고 자료
-***
 * **darknet**
     * https://github.com/AlexeyAB/darknet
     * https://zeuseyera.github.io/darknet-kr/SaYongBeob_Yolo-v3.html
