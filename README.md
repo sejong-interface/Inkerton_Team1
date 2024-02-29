@@ -11,7 +11,7 @@
 |조동현| 31기 | 스마트기기공학전공 | 18011838 |[hyeon9698](https://github.com/hyeon9698)|
 |서동수| 31기 | 스마트기기공학전공 | 18011878|[#](https://github.com/#)
 |이승준| 31기 | 스마트기기공학전공 | 18011846 |[Looma1116](https://github.com/Looma1116)|
-|이현주| 31기 | 컴퓨터공학과 | 18011603 |[alro923](https://github.com/alro923)|
+|이현주| 31기 | 컴퓨터공학과 | 18011603 |[alro923](https://github.com/uhhyunjoo)|
 
 *팀원들의 성을 따서 "이조판서"라는 팀 이름이 탄생하였습니다.*
 
